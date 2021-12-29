@@ -31,18 +31,18 @@
 
 // 다 섯번째 예제. 변수의 다양한 선언 및 초기화 방법.
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main(void)
-{
-    int num1=-858993460, num2=-858993460; //변수 num1, num2의 선언
-    int num3=30, num4=40;   //변수 num3, num4의 선언 및 초기화
+// int main(void)
+// {
+//     int num1=-858993460, num2=-858993460; //변수 num1, num2의 선언
+//     int num3=30, num4=40;   //변수 num3, num4의 선언 및 초기화
 
-    printf("num1: %d, num2: %d \n", num1, num2);
-    num1=10;    // 변수 num1의 초기화
-    num2=20;    // 변수 num2의 초기화
+//     printf("num1: %d, num2: %d \n", num1, num2);
+//     num1=10;    // 변수 num1의 초기화
+//     num2=20;    // 변수 num2의 초기화
 
-    printf("num1: %d, num2: %d \n", num1, num2);
-    printf("num3: %d, num4: %d \n", num3, num4);
-    return 0;
-}
+//     printf("num1: %d, num2: %d \n", num1, num2);
+//     printf("num3: %d, num4: %d \n", num3, num4);
+//     return 0;
+// }
